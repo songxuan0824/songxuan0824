@@ -7,7 +7,7 @@ Multimodal reasoning · World models · Embodied AI
 
 ## About
 
-I am an undergraduate at **Tsinghua University**, where I joined the **Tsien Hsue-shen Elite Class in Mechanics** in 2024. I was a visiting student at **HKUST** in July–August 2026.
+I am an undergraduate at **Tsinghua University**, where I joined the **Tsien Hsue-shen Elite Class in Mechanics**. I was a visiting student at **HKUST** in July–August 2026.
 
 My interests span AI research and engineering, with a focus on connecting perception, reasoning, and action.
 
